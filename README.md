@@ -9,6 +9,7 @@ Good luck!
 
 let a = [2, 4, 6, 8, 9, 15]
 let b = ['4', '16', '64']
+
 2) Write a function to calculate the cumulative TTL of the following set of requests. (The provided answer is correct and should not be modified. )
 
 let requests = [
